@@ -16,7 +16,6 @@
 	<a href="mailto:moliveiracdev@gmail.com" target="_blank"><img alt="gmail" src="https://img.shields.io/badge/moliveiracdev-@gmail.com-8A2BE2?labelColor=291B3E&style=for-the-badge&logo=gmail&logoColor=8A2BE2"></a>
 	<a href="https://discord.com/users/207233878283386884" target="_blank"><img alt="discord" src="https://img.shields.io/badge/araggohnxd-%236833-8A2BE2?labelColor=291B3E&style=for-the-badge&logo=discord&logoColor=8A2BE2"></a>
 	<a href="https://www.instagram.com/araggohnxd/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge//-araggohnxd-8A2BE2?labelColor=291B3E&style=for-the-badge&logo=instagram&logoColor=8A2BE2"></a>
-	<a href="https://www.reddit.com/user/araggohnxdd" target="_blank"><img alt="reddit" src="https://img.shields.io/badge//u/-araggohnxdd-8A2BE2?labelColor=291B3E&style=for-the-badge&logo=reddit&logoColor=8A2BE2"></a>
 </div><br>
 		
 ```
