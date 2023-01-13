@@ -4,8 +4,8 @@
 
 <div align="center"><br>
 	<a href="https://github.com/araggohnxd">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=araggohnxd&count_private=true&show_icons=true&theme=jolly&bg_color=10,291B3E,8A2BE2">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araggohnxd&layout=compact&theme=jolly&bg_color=100,8A2BE2,291B3E">
+		<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=araggohnxd&count_private=true&show_icons=true&theme=jolly&bg_color=10,291B3E,8A2BE2">
+		<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=araggohnxd&layout=compact&theme=jolly&bg_color=100,8A2BE2,291B3E">
 	</a>
 </div>
 
